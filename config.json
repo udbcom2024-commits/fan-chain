@@ -7,5 +7,5 @@
   "p2p_port": 9001,
   "api_port": 9000,
   "p2p_host": "0.0.0.0",
-  "seed_peers": ["35.240.142.148:9001"]
+  "seed_peers": ["ip:9001"]
 }
