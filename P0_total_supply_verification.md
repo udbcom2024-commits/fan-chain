@@ -63,17 +63,7 @@ if totalSupply != expectedSupply {
 }
 ```
 
-## 备份机制
-
-### Windows 备份
-- 脚本：`node2/backup_data.ps1`
-- 保存位置：`C:\Users\jjj\fan\backups\node2_data\`
-- 定时任务：每分钟自动备份
-
-### Linux 备份（服务器）
-- 脚本：`node2/backup_data.sh`
-- 保存位置：`/root/fan-chain/backups/`
-- 宝塔设置：每分钟执行
+ 
 
 ## 验证流程
 
